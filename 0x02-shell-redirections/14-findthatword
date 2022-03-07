@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 753 hello
+grep -i "root" /etc/passwd
