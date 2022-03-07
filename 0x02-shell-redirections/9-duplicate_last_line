@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 753 hello
+cat iacta | tail --lines=1 >> iacta
